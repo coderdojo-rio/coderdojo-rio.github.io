@@ -1,0 +1,3 @@
+[submodule "src/pelican-bold"]
+	path = src/pelican-bold
+	url = https://github.com/coderdojo-rio/pelican-bold.git
