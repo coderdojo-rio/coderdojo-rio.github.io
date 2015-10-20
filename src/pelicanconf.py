@@ -4,11 +4,12 @@ from __future__ import unicode_literals
 
 AUTHOR = u'coderdojorio'
 SITENAME = u'CoderDojo Rio'
-SITEURL = ''
+SITESUBTITLES = [u'CoderDojo Rio', '<img src="static/logo-coderdojo.png" alt="Logo" />']
+SITEURL = 'corderdojorio.com.br'
 THEME = 'pelican-bold'
 
 PATH = 'content'
-
+STATIC_PATHS = ['static']
 TIMEZONE = 'America/Sao_Paulo'
 
 DEFAULT_LANG = u'pt'
